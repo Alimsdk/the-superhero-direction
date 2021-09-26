@@ -1,0 +1,34 @@
+.card{
+    background-color: #334756;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px 10px;
+   color: white;
+   
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.card h2{
+    font-size: 22px;
+}
+.card h3{
+    font-size: 20px;
+}
+.card h4{
+    font-size: 18px;
+}
+
+.card button{
+    background-color:  #FFB344;
+    padding: 7px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
